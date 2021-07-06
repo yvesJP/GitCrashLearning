@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,10 +10,8 @@
     <header>
         Header test
     </header>
+<div class="sidebar">sidebar</div>
     <nav> nav </nav>
-	<div class="sidebar">
-		sidebar
-	</div>
    Hello from Git
    <script src="app.js"></script> 
 </body>
